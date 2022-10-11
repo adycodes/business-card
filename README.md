@@ -4,4 +4,5 @@
 
 ### The Frontend Developer Career Path
 
-🔗 Project deployment: [https://adycodes.github.io/business-card/]
+🔗 Project deployment GitHub Pages: [https://adycodes.github.io/business-card/]
+🔗 Project deployment Netlify: [https://fanciful-chimera-76ef1e.netlify.app/]
